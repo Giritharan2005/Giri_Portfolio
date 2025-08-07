@@ -29,7 +29,7 @@ This portfolio is deployed using Firebase Hosting for fast and secure delivery.
 
 👤 About – Background and professional summary
 
-🧠 Skills – Technical skills and expertise
+🧠 Skills – Technical skills and Soft Skills 
 
 💼 Experience – Professional journey and work history
 
