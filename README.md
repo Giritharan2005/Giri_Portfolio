@@ -40,4 +40,5 @@ This portfolio is deployed using Firebase Hosting for fast and secure delivery.
 📬 Contact – Get in touch form and social links
 
 🏠 Home Section
+
 "A clean and compelling hero section introducing me as a data analyst, featuring social links, a downloadable CV, and a personal welcome message."
