@@ -2,26 +2,35 @@
 
 
 🧭 Overview:
-Welcome to my professional portfolio website! This modern, responsive portfolio showcases my skills, projects, and professional journey in the tech industry. 
+       Welcome to my professional portfolio website! This modern, responsive portfolio showcases my skills, projects, and professional journey in the tech industry. 
 Built with pure HTML, CSS, and JavaScript, this single-page application features smooth scrolling, interactive elements, and a clean, professional design.
 
 
 ☁️ Deployment – Firebase Hosting:
-This portfolio is deployed using Firebase Hosting for fast and secure delivery.
+
+  This portfolio is deployed using Firebase Hosting for fast and secure delivery.
 
 
 🔗 Live Link:
-    🌐https://giri-portfolio-24.web.app/
+    
+	🌐https://giri-portfolio-24.web.app/
 
 
 🎯 Design & Features:
 
-🖥️ Modern UI/UX,
+🖥️ Modern UI/UX
+
 🎨 Sleek, dark theme with gradient accents,
+
 📱 Responsive design that works on all devices,
+
 🧭 Smooth scrolling navigation,
+
 🌀 Interactive elements and subtle animations,
+
 ✍️ Clean typography and elegant spacing.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📑 Key Sections:
 
@@ -49,5 +58,11 @@ This portfolio is deployed using Firebase Hosting for fast and secure delivery.
 👤 About Section
 
 "An insightful overview of my passion for data analytics, technical background, and educational journey, focused on transforming data into impactful decisions."
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🧠 Skills Section
+
+"A structured showcase of my technical expertise and soft skills, highlighting tools, languages, and strengths that power my data-driven problem-solving."
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
