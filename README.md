@@ -82,3 +82,9 @@ Built with pure HTML, CSS, and JavaScript, this single-page application features
 "A verified showcase of my continuous learning journey, featuring certifications that reflect my growing expertise in data analytics, programming, and professional development."
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📬 Contact Section
+
+"An open invitation to connect — whether for collaboration, opportunities, or conversation — through a responsive form and direct contact details."
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
