@@ -68,3 +68,9 @@ Built with pure HTML, CSS, and JavaScript, this single-page application features
 "A structured showcase of my technical expertise and soft skills, highlighting tools, languages, and strengths that power my data-driven problem-solving."
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🚀 Projects Section
+
+"A curated collection of real-world projects showcasing my ability to build intelligent, user-friendly, and impactful solutions across web and data-driven applications."
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
